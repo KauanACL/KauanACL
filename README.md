@@ -7,26 +7,18 @@
 ## Sobre mim
 
 -  Graduando em Ciencias da Computação
--  Estudando Python, JavaScript, Node.js, React, e desenvolvimento fullstack
+-  Estudando Python, SwiftUI, Ruby, IOS.
 -  Explorando novas tecnologias e desenvolvendo soluções de software.
-
-
-
-## ⭐ GitHub Stats
-<a href="https://github.com/kauanACL">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KauanACL&theme=tokyonight&show_icons=true&hide_border=false&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KauanACL&theme=tokyonight&show_icons=true&hide_border=false&layout=compact"/>
-
 
 ## Tecnologias e linguagens 💻
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,python,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,swift,python,docker,postgres,mysql,)](https://skillicons.dev)
 
 ### 🚀 Frameworks e bibliotecas
-[![My Skills](https://skillicons.dev/icons?i=react,nodejs,mysql,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nodejs,fastapi)](https://skillicons.dev)
 
 ### 🛠️ Ferramentas de desenvolvimento
-[![My Skills](https://skillicons.dev/icons?i=git,github,figma,vscode,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,postman)](https://skillicons.dev)
 
 
 
