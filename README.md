@@ -13,9 +13,9 @@ Trabalho tanto com **iOS nativo (Swift/SwiftUI)** quanto com **React Native e Ne
 | [🩺 acompanha-health](https://github.com/KAUANACL/acompanha-health) | Plataforma de acompanhamento entre profissionais de saúde e pacientes | Next.js · React Native · Supabase |
 | [🏥 meu-plantao](https://github.com/KAUANACL/meu-plantao) | App iOS para gestão de escalas e finanças de profissionais de saúde | Swift · SwiftUI · CloudKit |
 | [🥂 ska-top](https://github.com/KAUANACL/ska-top) | Portfólio digital de catálogos para distribuidora de bebidas | Next.js · Tailwind CSS |
-| [🎮 us-gk](https://github.com/KAUANACL/us-gk) | _[descrição do projeto]_ | _[stack]_ |
+| [🎮 us-gk](https://github.com/KAUANACL/us-gk) | Site para contagem de tempo juntos | Next.js · Tailwind CSS |
 
-> 🔗 Veja todos os meus projetos em: [Portfólio no Notion](#)
+> 🔗 Veja todos os meus projetos em: [Portfólio no Notion](https://rebel-onyx-4b1.notion.site/Portf-lio-Kauan-30d93a11eea480c8b7efc266ed00e68c?source=copy_link)
 
 ---
 
@@ -44,8 +44,8 @@ Trabalho tanto com **iOS nativo (Swift/SwiftUI)** quanto com **React Native e Ne
 
 ## 📬 Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/kauan-acl)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://github.com/KauanACL)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:kauan.acl@icloud.com)
 
 ---
 
