@@ -13,7 +13,7 @@ Trabalho tanto com **iOS nativo (Swift/SwiftUI)** quanto com **React Native e Ne
 | [🩺 acompanha-health](https://github.com/KAUANACL/acompanha-health) | Plataforma de acompanhamento entre profissionais de saúde e pacientes | Next.js · React Native · Supabase |
 | [🏥 meu-plantao](https://github.com/KAUANACL/meu-plantao) | App iOS para gestão de escalas e finanças de profissionais de saúde | Swift · SwiftUI · CloudKit |
 | [🥂 ska-top](https://github.com/KAUANACL/ska-top) | Portfólio digital de catálogos para distribuidora de bebidas | Next.js · Tailwind CSS |
-| [🎮 us-gk](https://github.com/KAUANACL/us-gk) | Site para contagem de tempo juntos | Next.js · Tailwind CSS |
+| [🎮 us-gk](https://github.com/KAUANACL/us-gk) | Presente Romantico Digital | Next.js · Tailwind CSS |
 
 > 🔗 Veja todos os meus projetos em: [Portfólio no Notion](https://rebel-onyx-4b1.notion.site/Portf-lio-Kauan-30d93a11eea480c8b7efc266ed00e68c?source=copy_link)
 
