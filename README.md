@@ -1,44 +1,47 @@
 # Olá, eu sou o Kauan 👋
 
-Desenvolvedor mobile e web focado em criar produtos reais que resolvem problemas reais.
+Desenvolvedor focado em **Backend Java, Spring Cloud e soluções com IA**.
 
-Trabalho tanto com **iOS nativo (Swift/SwiftUI)** quanto com **React Native e Next.js**, construindo desde apps publicados na App Store até plataformas SaaS completas com backend.
+Construo APIs, sistemas backend e integrações com foco em produto real, combinando arquitetura Java/Spring, cloud e IA aplicada para transformar problemas práticos em soluções simples de usar.
 
 ---
 
-## 🚀 Projetos em Destaque
+## 🎯 Foco atual
 
-| Projeto | Descrição | Stack |
-|---|---|---|
-| [🩺 acompanha-health](https://github.com/KAUANACL/acompanha-health) | Plataforma de acompanhamento entre profissionais de saúde e pacientes | Next.js · React Native · Supabase |
-| [🏥 meu-plantao](https://github.com/KAUANACL/meu-plantao) | App iOS para gestão de escalas e finanças de profissionais de saúde | Swift · SwiftUI · CloudKit |
-| [🥂 ska-top](https://github.com/KAUANACL/ska-top) | Portfólio digital de catálogos para distribuidora de bebidas | Next.js · Tailwind CSS |
-| [🎮 us-gk](https://github.com/KAUANACL/us-gk) | Presente Romantico Digital | Next.js · Tailwind CSS |
-
-> 🔗 Veja todos os meus projetos em: [Portfólio no Notion](https://rebel-onyx-4b1.notion.site/Portf-lio-Kauan-30d93a11eea480c8b7efc266ed00e68c?source=copy_link)
+- Backend com Java, Spring Boot e Spring Cloud
+- APIs REST, integrações e automações
+- Cloud e arquitetura de aplicações escaláveis
+- IA aplicada, LLMs e uso de APIs inteligentes em produtos reais
 
 ---
 
 ## 🛠️ Tecnologias
 
-**Mobile**
+**Backend**
 
-![Swift](https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white)
-![SwiftUI](https://img.shields.io/badge/SwiftUI-0070C9?style=flat&logo=swift&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Expo](https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-6DB33F?style=flat&logo=spring&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 
-**Web**
+**Cloud & Infra**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Cloud](https://img.shields.io/badge/Cloud-0F172A?style=flat&logo=icloud&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
+
+**IA & Automação**
+
+![IA Aplicada](https://img.shields.io/badge/IA_Aplicada-111827?style=flat&logo=openai&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs-412991?style=flat&logo=openai&logoColor=white)
+![APIs](https://img.shields.io/badge/Integrações_com_APIs-2563EB?style=flat&logo=fastapi&logoColor=white)
+
+**Frontend/Mobile**
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-
-**Backend & Infra**
-
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![CloudKit](https://img.shields.io/badge/CloudKit-0071E3?style=flat&logo=apple&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-0070C9?style=flat&logo=swift&logoColor=white)
 
 ---
 
@@ -49,4 +52,4 @@ Trabalho tanto com **iOS nativo (Swift/SwiftUI)** quanto com **React Native e Ne
 
 ---
 
-<sub>Sempre construindo algo novo ⚡</sub>
+<sub>Construindo soluções backend, cloud e IA com foco em produto real.</sub>
