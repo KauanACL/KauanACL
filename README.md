@@ -1,7 +1,15 @@
 # Kauan Lopes
 
-Trabalho com análise de dados e desenvolvimento de soluções para produtividade. Desenvolvo projetos em Python e estudo como avaliar e integrar modelos de IA.
+Desenvolvedor em Belo Horizonte, com foco em dados, automação de processos e IA aplicada. Construo ferramentas que economizam tempo e evitam erros na operação.
 
-Estudo Rust para criar ferramentas de linha de comando e processar dados.
+## Projetos
 
-[LinkedIn](https://www.linkedin.com/in/kauan-acl/)
+**Luciana Sommelier CRM**: sistema web em React, Vite e Supabase para clientes, visitas, vendas e relatórios, com exportação para Excel.
+
+**us-gk**: site em Next.js com versões datadas, hospedado na Vercel.
+
+## Stack
+
+Python, SQL, APIs REST, TypeScript, React, Next.js, Supabase.
+
+LinkedIn: [linkedin.com/in/kauan-acl](https://www.linkedin.com/in/kauan-acl/)
